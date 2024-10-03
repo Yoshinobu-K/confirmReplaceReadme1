@@ -1,2 +1,2 @@
-# confirmReplaceReadme1
-readme入れ替え確認リポジトリ1
+# replaced README
+入れ替えられたREADME
